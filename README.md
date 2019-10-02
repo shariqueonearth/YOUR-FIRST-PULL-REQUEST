@@ -1,4 +1,4 @@
-# Hello Developers! :wave:
+# Hello NITians! :wave:
 ## It's HacktoberFest and GAWDS :heart: Open Source
 
 ![Image](/assets/git.jpg)
